@@ -17,8 +17,7 @@ A 7-stage theoretical CI/CD pipeline that demonstrates the full software deliver
 | 7️⃣ Deploy to Production | Deploy to production | AWS CodeDeploy |
 
 ## GitHub Integration
-
 This repo is connected to a Jenkins pipeline job that automatically triggers a new build whenever changes are pushed to the `main` branch.
 
 Student: Harshman Kaur | SIT223 — Credit Task 8.1C
-test
+testing 1 
